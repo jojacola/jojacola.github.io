@@ -7,10 +7,11 @@
 
 # Site Settings
 title                    : "Yanran Wu"
-description              : ""
+description              : "Yanran Wu's homepage. Yanran is a Ph.D. student in Computer Science at Purdue University."
 repository               : "jojacola/jojacola.github.io"
 google_scholar_stats_use_cdn : false
 baseurl: ""
+url: "https://jojacola.github.io"
 # google analytics
 google_analytics_id      :  G-3XL9KWNLQR
 
