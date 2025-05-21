@@ -1,0 +1,36 @@
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const links = document.querySelectorAll("a[href^='http']");
+    links.forEach(link => {
+      const isExternal = !link.href.includes(window.location.hostname);
+      if (isExternal) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
+
+<script>
+  $('.gallery-set1').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    gallery: {
+      enabled: true
+    }
+  });
+
+  $('.gallery-set2').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    gallery: {
+      enabled: true
+    }
+  });
+</script>
+
+
+{% include analytics.html %}
+{% include fetch_google_scholar_stats.html %}
