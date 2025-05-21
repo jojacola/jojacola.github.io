@@ -8,14 +8,14 @@
 # Site Settings
 title                    : "Yanran Wu"
 description              : ""
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "jojacola/jojacola.github.io"
 google_scholar_stats_use_cdn : false
 baseurl: ""
 # google analytics
 google_analytics_id      :  G-3XL9KWNLQR
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  8ida90wM2M66Eu1bHSdR9bWA42cj8AIto6RSCA5NO_w
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
