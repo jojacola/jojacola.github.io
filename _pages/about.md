@@ -25,11 +25,13 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our paper SCARF, a general framework for water-sustainable computing, is accepted to [HotCarbon 2025](https://hotcarbon.org/)!
 - *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference!
 
 
 # 📝 Publications 
 \* denotes equal contribution
+- <span class="badge">HotCarbon '25</span> [Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing](https://arxiv.org/abs/2506.22773), **Yanran Wu**, Inez Hua, Yi Ding
 - <span class="badge">ACL 2025</span> [Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View](https://arxiv.org/abs/2502.11256), **Yanran Wu**, Inez Hua, Yi Ding
 - <span class="badge badge-preprint">Preprint 2024</span> [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions](https://arxiv.org/abs/2412.20322), Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding
 - <span class="badge">ICIP 2021</span> [Fast and accurate scene parsing via bi-direction alignment networks](https://ieeexplore.ieee.org/abstract/document/9506720), **Yanran Wu\***, Xiangtai Li\*, Chen Shi, Yunhai Tong, Yang Hua, Tao Song, Ruhui Ma, Haibing Guan
