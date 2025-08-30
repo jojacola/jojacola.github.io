@@ -25,17 +25,33 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper SCARF, a general framework for water-sustainable computing, is accepted to [HotCarbon 2025](https://hotcarbon.org/)!
-- *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference!
+- *2025.08*: &nbsp;🎉🎉 Our work "Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner", is accepted to EMNLP 2025 main conference! Many thanks to my collaborators!
+- *2025.06*: &nbsp;🎉🎉 Our paper SCARF, a general framework for water-sustainable computing, is accepted to [HotCarbon 2025](https://hotcarbon.org/)! Congrats to all the authors!
+- *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference! My deepest gratitude to my advisor!
 
 
 # 📝 Publications 
 \* denotes equal contribution
-- <span class="badge">HotCarbon '25</span> [Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing](https://arxiv.org/abs/2506.22773), **Yanran Wu**, Inez Hua, Yi Ding
-- <span class="badge">ACL 2025</span> [Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View](https://arxiv.org/abs/2502.11256), **Yanran Wu**, Inez Hua, Yi Ding
-- <span class="badge badge-preprint">Preprint 2024</span> [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions](https://arxiv.org/abs/2412.20322), Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding
-- <span class="badge">ICIP 2021</span> [Fast and accurate scene parsing via bi-direction alignment networks](https://ieeexplore.ieee.org/abstract/document/9506720), **Yanran Wu\***, Xiangtai Li\*, Chen Shi, Yunhai Tong, Yang Hua, Tao Song, Ruhui Ma, Haibing Guan
-- <span class="badge">ICIP 2021</span> [Dynamic dual sampling module for fine-grained semantic segmentation](https://ieeexplore.ieee.org/abstract/document/9506628/), Chen Shi\*, Xiangtai Li\*, **Yanran Wu**, Yunhai Tong, Yi Xu
+- <span class="badge">EMNLP 2025</span>
+  Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
+ Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang
+- <span class="badge">HotCarbon '25</span>
+  Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing<br>
+  **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)
+- <span class="badge">ACL 2025</span>
+  Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View<br>
+  **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2502.11256) · [💻 Code](https://github.com/jojacola/FUEL)
+- <span class="badge badge-preprint">Preprint 2024</span>
+  GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions<br>
+  Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding  [📄 Paper](https://arxiv.org/abs/2412.20322)
+
+- <span class="badge">ICIP 2021</span>
+  Fast and accurate scene parsing via bi-direction alignment networks<br>
+  **Yanran Wu\***, Xiangtai Li\*, Chen Shi, Yunhai Tong, Yang Hua, Tao Song, Ruhui Ma, Haibing Guan  [📄 Paper](https://ieeexplore.ieee.org/abstract/document/9506720) · [💻 Code](https://github.com/jojacola/BiAlignNet)
+
+- <span class="badge">ICIP 2021</span>
+  Dynamic dual sampling module for fine-grained semantic segmentation<br>
+  Chen Shi\*, Xiangtai Li\*, **Yanran Wu**, Yunhai Tong, Yi Xu  [📄 Paper](https://ieeexplore.ieee.org/abstract/document/9506628/)
 
 
 # 📖 Education
@@ -61,3 +77,4 @@ Worked on multi-object detection for autonomous driving.
 
 # 📚 Teaching
 - **Teaching Assistant**, Purdue CS 37300: Data Mining and Machine Learning, *Fall 2024*
+- **Teaching Assistant**, Purdue CS 53600: Data Communication and Computer Networks, *Fall 2025*
