@@ -34,7 +34,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 \* denotes equal contribution
 - <span class="badge">EMNLP 2025</span>
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
- Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang
+ Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
 - <span class="badge">HotCarbon '25</span>
   Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing<br>
   **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)
