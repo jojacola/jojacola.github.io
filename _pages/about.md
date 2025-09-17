@@ -32,15 +32,17 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 
 # 📝 Publications 
 \* denotes equal contribution
+- <span class="badge">ACL 2025</span>
+  Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View<br>
+  **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2502.11256) · [💻 Code](https://github.com/jojacola/FUEL)<br>
+  <span class="badge badge-light">📰 Media Coverage</span> [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_unveiling-environmental-impacts-of-large-activity-7303076333545287680-CZSZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs)
+- <span class="badge">HotCarbon '25</span>
+  Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing<br>
+  **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)<br>
+  <span class="badge badge-light">📰 Media Coverage</span> [Texas Public Radio](https://www.tpr.org/environment/2025-08-15/big-techs-big-thirst-ais-demand-for-texas-water) · [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_not-all-water-consumption-is-equal-a-water-activity-7367179218721337345-3BcW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs) · [Green Web Foundation](https://www.thegreenwebfoundation.org/news/spains-data-centre-law-supporting-local-groups-in-the-public-consultation/)
 - <span class="badge">EMNLP 2025</span>
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
  Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
-- <span class="badge">HotCarbon '25</span>
-  Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing<br>
-  **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)
-- <span class="badge">ACL 2025</span>
-  Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View<br>
-  **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2502.11256) · [💻 Code](https://github.com/jojacola/FUEL)
 - <span class="badge badge-preprint">Preprint 2024</span>
   GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions<br>
   Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding  [📄 Paper](https://arxiv.org/abs/2412.20322)

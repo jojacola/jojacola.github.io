@@ -120,6 +120,13 @@ h1:before, .anchor:before {
   line-height: 1;         /* 避免撑高行距 */
 }
 
+.badge-light {
+  background-color: #f0f0f0;  /* 浅灰色背景 */
+  color: #333;                /* 深灰字体 */
+  border: 1px solid #dcdcdc;  /* 细边框，让它更轻 */
+}
+
+
 .badge-preprint {
   background-color: #e0e0e0; /* 淡灰色背景 */
   color: #333333;            /* 深灰字体 */
