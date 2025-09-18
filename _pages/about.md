@@ -22,7 +22,11 @@ redirect_from:
 I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof. Yi Ding](https://y-ding.github.io/index.html). Before joining Purdue, I spent one year in Alibaba Cloud, building cloud-native deep learning infrastructure for distributed training and resource scheduling. Previously, I obtained both of my Master's and Bachelor's degrees in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://scholar.google.com/citations?user=PcrtqDsAAAAJ&hl=en) and [Prof. Tao Song](https://scholar.google.com/citations?user=tIjK-3QAAAAJ&hl=en). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en). 
 
  My research focuses on machine learning systems, with an emphasis on improving the efficiency and sustainability of Large Language Models (LLMs) through environmental impact evaluation, system-level optimizations, and the use of heterogeneous hardware platforms.
+<br>
 
+<span style="color:red; font-weight:bold; font-size:1.05em">
+🚀 I am actively looking for internships. Feel free to reach out!
+</span>
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our work "Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner", is accepted to EMNLP 2025 main conference! Many thanks to my collaborators!
@@ -35,11 +39,15 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 - <span class="badge">ACL 2025</span>
   Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View<br>
   **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2502.11256) · [💻 Code](https://github.com/jojacola/FUEL)<br>
-  <span class="badge badge-light">📰 Media Coverage</span> [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_unveiling-environmental-impacts-of-large-activity-7303076333545287680-CZSZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs)
+  <span style="font-weight: bold; font-size: 0.9em; color: #333;">
+  📰 Media Coverage:
+</span>  [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_unveiling-environmental-impacts-of-large-activity-7303076333545287680-CZSZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs)
 - <span class="badge">HotCarbon '25</span>
   Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing<br>
   **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)<br>
-  <span class="badge badge-light">📰 Media Coverage</span> [Texas Public Radio](https://www.tpr.org/environment/2025-08-15/big-techs-big-thirst-ais-demand-for-texas-water) · [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_not-all-water-consumption-is-equal-a-water-activity-7367179218721337345-3BcW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs) · [Green Web Foundation](https://www.thegreenwebfoundation.org/news/spains-data-centre-law-supporting-local-groups-in-the-public-consultation/)
+  <span style="font-weight: bold; font-size: 0.9em; color: #333;">
+  📰 Media Coverage:
+</span>  [Texas Public Radio](https://www.tpr.org/environment/2025-08-15/big-techs-big-thirst-ais-demand-for-texas-water) · [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_not-all-water-consumption-is-equal-a-water-activity-7367179218721337345-3BcW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs) · [Green Web Foundation](https://www.thegreenwebfoundation.org/news/spains-data-centre-law-supporting-local-groups-in-the-public-consultation/)
 - <span class="badge">EMNLP 2025</span>
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
  Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
