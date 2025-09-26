@@ -47,7 +47,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
   **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)<br>
   <span style="font-weight: bold; font-size: 0.9em; color: #333;">
   📰 Media Coverage:
-</span>  [Texas Public Radio](https://www.tpr.org/environment/2025-08-15/big-techs-big-thirst-ais-demand-for-texas-water) · [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_not-all-water-consumption-is-equal-a-water-activity-7367179218721337345-3BcW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs) · [Green Web Foundation](https://www.thegreenwebfoundation.org/news/spains-data-centre-law-supporting-local-groups-in-the-public-consultation/)
+</span>  [Texas Tribune](https://www.texastribune.org/2025/09/25/texas-data-center-water-use/) · [Texas Public Radio](https://www.tpr.org/environment/2025-08-15/big-techs-big-thirst-ais-demand-for-texas-water) · [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_not-all-water-consumption-is-equal-a-water-activity-7367179218721337345-3BcW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs) · [Green Web Foundation](https://www.thegreenwebfoundation.org/news/spains-data-centre-law-supporting-local-groups-in-the-public-consultation/)
 - <span class="badge">EMNLP 2025</span>
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
  Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
