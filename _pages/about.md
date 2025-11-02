@@ -29,6 +29,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 </span>
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our work on carbon-efficient disaggregated speculative decoding is accepted to [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca)! Many thanks to my collaborators!
 - *2025.08*: &nbsp;🎉🎉 Our work "Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner", is accepted to EMNLP 2025 main conference! Many thanks to my collaborators!
 - *2025.06*: &nbsp;🎉🎉 Our paper SCARF, a general framework for water-sustainable computing, is accepted to [HotCarbon 2025](https://hotcarbon.org/)! Congrats to all the authors!
 - *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference! My deepest gratitude to my advisor!
@@ -51,7 +52,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 - <span class="badge">EMNLP 2025</span>
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
  Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
-- <span class="badge badge-preprint">Preprint 2024</span>
+- <span class="badge">IEEE CAL</span>
   GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions<br>
   Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding  [📄 Paper](https://arxiv.org/abs/2412.20322)
 
