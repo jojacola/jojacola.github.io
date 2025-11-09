@@ -43,7 +43,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
   <span style="font-weight: bold; font-size: 0.9em; color: #333;">
   📰 Media Coverage:
 </span>  [Green Software Foundation](https://www.linkedin.com/posts/green-software-foundation_unveiling-environmental-impacts-of-large-activity-7303076333545287680-CZSZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA1GomkBzEFGPxfVQWWZcEnULYvX6TPzBDs)
-- <span class="badge">HotCarbon '25</span>
+- <span class="badge">HotCarbon&#39;25</span>
   Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing<br>
   **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2506.22773) · [💻 Code](https://github.com/jojacola/SCARF)<br>
   <span style="font-weight: bold; font-size: 0.9em; color: #333;">
@@ -52,7 +52,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 - <span class="badge">EMNLP 2025</span>
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
  Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
-- <span class="badge">IEEE CAL</span>
+- <span class="badge">IEEE CAL&#39;25</span>
   GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions<br>
   Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding  [📄 Paper](https://arxiv.org/abs/2412.20322)
 
