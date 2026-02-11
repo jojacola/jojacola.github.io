@@ -19,7 +19,7 @@ redirect_from:
 
 ## Hi there! 👋
 
-I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof. Yi Ding](https://y-ding.github.io/index.html). Before joining Purdue, I spent one year in Alibaba Cloud, building cloud-native deep learning infrastructure for distributed training and resource scheduling. Previously, I obtained both of my Master's and Bachelor's degrees in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://scholar.google.com/citations?user=PcrtqDsAAAAJ&hl=en) and [Prof. Tao Song](https://scholar.google.com/citations?user=tIjK-3QAAAAJ&hl=en). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en). 
+I am a Ph.D. student in Computer Science at Purdue University. Before joining Purdue, I spent one year in Alibaba Cloud, building cloud-native deep learning infrastructure for distributed training and resource scheduling. Previously, I obtained both of my Master's and Bachelor's degrees in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://scholar.google.com/citations?user=PcrtqDsAAAAJ&hl=en) and [Prof. Tao Song](https://scholar.google.com/citations?user=tIjK-3QAAAAJ&hl=en). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en). 
 
  My research focuses on machine learning systems, with an emphasis on improving the efficiency and sustainability of Large Language Models (LLMs) through environmental impact evaluation, system-level optimizations, and the use of heterogeneous hardware platforms.
 <br>
@@ -32,7 +32,7 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 - *2025.10*: &nbsp;🎉🎉 Our work on carbon-efficient disaggregated speculative decoding is accepted to [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca)! Many thanks to my collaborators!
 - *2025.08*: &nbsp;🎉🎉 Our work "Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner", is accepted to EMNLP 2025 main conference! Many thanks to my collaborators!
 - *2025.06*: &nbsp;🎉🎉 Our paper SCARF, a general framework for water-sustainable computing, is accepted to [HotCarbon 2025](https://hotcarbon.org/)! Congrats to all the authors!
-- *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference! My deepest gratitude to my advisor!
+- *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference! My deepest gratitude to my collaborators!
 
 
 # 📝 Publications 
@@ -68,11 +68,9 @@ I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof.
 # 📖 Education
 - **Ph.D. in Computer Science**, Purdue University  
 *2023 – Present* &nbsp;&nbsp;📍 West Lafayette, USA  
-Advised by [Prof. Yi Ding](https://y-ding.github.io/index.html)
 
 - **M.S. in Computer Science and Technology**, Shanghai Jiao Tong University  
 *2019 – 2022* &nbsp;&nbsp;📍 Shanghai, China  
-Advised by [Prof. Ruhui Ma](https://scholar.google.com/citations?user=PcrtqDsAAAAJ&hl=en) and [Prof. Tao Song](https://scholar.google.com/citations?user=tIjK-3QAAAAJ&hl=en)
 
 - **B.S. in Computer Science and Technology**, Shanghai Jiao Tong University  
 *2015 – 2019* &nbsp;&nbsp;📍 Shanghai, China  
@@ -89,3 +87,5 @@ Worked on multi-object detection for autonomous driving.
 # 📚 Teaching
 - **Teaching Assistant**, Purdue CS 37300: Data Mining and Machine Learning, *Fall 2024*
 - **Teaching Assistant**, Purdue CS 53600: Data Communication and Computer Networks, *Fall 2025*
+- **Teaching Assistant**, Purdue CS 52500: Parallel Computing, *Spring 2026*
+
