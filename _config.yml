@@ -162,3 +162,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Visitor map can be restored independently of analytics.
+visitor_map_enabled: false

@@ -19,24 +19,28 @@ redirect_from:
 
 ## Hi there! 👋
 
-I am a Ph.D. student in Computer Science at Purdue University. Before joining Purdue, I spent one year in Alibaba Cloud, building cloud-native deep learning infrastructure for distributed training and resource scheduling. Previously, I obtained both of my Master's and Bachelor's degrees in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://scholar.google.com/citations?user=PcrtqDsAAAAJ&hl=en) and [Prof. Tao Song](https://scholar.google.com/citations?user=tIjK-3QAAAAJ&hl=en). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en). 
+I am a Ph.D. student in Computer Science at Purdue University, advised by [Prof. Chunwei Liu](https://www.cs.purdue.edu/homes/chunwei/). I received both my master’s and bachelor’s degrees in Computer Science from Shanghai Jiao Tong University (SJTU). Before joining Purdue, I worked as a Software Engineer at Alibaba Cloud, building infrastructure for distributed deep learning.
 
- My research focuses on machine learning systems, with an emphasis on improving the efficiency and sustainability of Large Language Models (LLMs) through environmental impact evaluation, system-level optimizations, and the use of heterogeneous hardware platforms.
-<br>
+My research focuses on **efficient AI systems**, especially the training and serving of large language models (LLMs). I study data selection, model distillation, and test-time alignment, and develop inference optimizations for heterogeneous GPU systems. I also evaluate the trade-offs among model quality, latency, and environmental impact. I interned on Meta’s Ads Ranking team, working on synthetic-data filtering, and now continue as a part-time Student Researcher working on LLM reranking and on-policy distillation.
 
-<span style="color:red; font-weight:bold; font-size:1.05em">
-🚀 I am actively looking for internships. Feel free to reach out!
-</span>
+<p style="color: #c62828; font-weight: 600;">
+🚀 I’m actively exploring industry opportunities in AI research and engineering. Feel free to reach out!
+</p>
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Our work on carbon-efficient disaggregated speculative decoding is accepted to [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca)! Many thanks to my collaborators!
-- *2025.08*: &nbsp;🎉🎉 Our work "Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner", is accepted to EMNLP 2025 main conference! Many thanks to my collaborators!
-- *2025.06*: &nbsp;🎉🎉 Our paper SCARF, a general framework for water-sustainable computing, is accepted to [HotCarbon 2025](https://hotcarbon.org/)! Congrats to all the authors!
-- *2025.05*: &nbsp;🎉🎉 Our paper FUEL on benchmarking environmental impacts of LLM serving is accepted to ACL 2025 main conference! My deepest gratitude to my collaborators!
-
+- *2026.09*: 🎉 Our work on online synthetic-data filtering, [FROST: Let Training Guide Selection](https://arxiv.org/abs/2609.29988), is now available online.
+- *2026.08*: 🎉 I completed my summer internship at Meta. Many thanks to my mentor and teammates for their guidance, support, and collaboration!
+- *2025.10*: 🎉 Our work on carbon-efficient disaggregated speculative decoding was accepted to [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca). Thanks to my collaborators for a great collaboration!
+- *2025.08*: 🎉 Our work on reward-shifted speculative sampling for test-time alignment was accepted to the EMNLP 2025 main conference. It was a pleasure working with all my coauthors!
+- *2025.06*: 🎉 Our paper SCARF on water-sustainable computing was accepted to [HotCarbon 2025](https://hotcarbon.org/). Grateful for the support from my collaborators!
+- *2025.05*: 🎉 Our paper FUEL on benchmarking the environmental impact of LLM serving was accepted to the ACL 2025 main conference. Thanks to my collaborators for their support throughout this project!
 
 # 📝 Publications 
 \* denotes equal contribution
+- <span class="badge">arXiv 2026</span>
+  Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility<br>
+  **Yanran Wu**, Sana Lakdawala, Renzo Tassara Miller, Chongyang Bai, Sharath Ciddu, Shivendra Pratap Singh, Kungang Li, Sandeep Pandey, Chunwei Liu [📄 Paper](https://arxiv.org/abs/2609.29988)
+
 - <span class="badge">ACL 2025</span>
   Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View<br>
   **Yanran Wu**, Inez Hua, Yi Ding  [📄 Paper](https://arxiv.org/abs/2502.11256) · [💻 Code](https://github.com/jojacola/FUEL)<br>
@@ -53,8 +57,8 @@ I am a Ph.D. student in Computer Science at Purdue University. Before joining Pu
   Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner<br>
  Bolian Li, **Yanran Wu**, Xinyu Luo, Ruqi Zhang  [📄 Paper](https://arxiv.org/abs/2508.15044)
 - <span class="badge">IEEE CAL&#39;25</span>
-  GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions<br>
-  Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding  [📄 Paper](https://arxiv.org/abs/2412.20322)
+  Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving<br>
+  Tianyao Shi\*, **Yanran Wu\***, Sihang Liu, Yi Ding  [📄 Paper](https://doi.org/10.1109/LCA.2025.3630094)
 
 - <span class="badge">ICIP 2021</span>
   Fast and accurate scene parsing via bi-direction alignment networks<br>
@@ -76,6 +80,14 @@ I am a Ph.D. student in Computer Science at Purdue University. Before joining Pu
 *2015 – 2019* &nbsp;&nbsp;📍 Shanghai, China  
 
 # 💻 Experience
+- **Part-time Student Researcher, Ads Ranking**, Meta  
+*Aug. 2026 – Present*  
+Research on LLM-based reranking and efficient on-policy distillation.
+
+- **Research Scientist Intern, Ads Ranking**, Meta  
+*May 2026 – Aug. 2026* &nbsp;&nbsp;📍 Sunnyvale, CA  
+Developed FROST for online synthetic-data filtering, evaluated across ads ranking, text-to-SQL fine-tuning, and image classification.
+
 - **Software Engineer**, Alibaba Cloud  
 *Jun. 2022 – Jul. 2023* &nbsp;&nbsp;📍 Shanghai, China  
 Worked on cloud-native infrastructure for distributed deep learning.
@@ -85,7 +97,7 @@ Worked on cloud-native infrastructure for distributed deep learning.
 Worked on multi-object detection for autonomous driving.
 
 # 📚 Teaching
-- **Teaching Assistant**, Purdue CS 37300: Data Mining and Machine Learning, *Fall 2024*
-- **Teaching Assistant**, Purdue CS 53600: Data Communication and Computer Networks, *Fall 2025*
 - **Teaching Assistant**, Purdue CS 52500: Parallel Computing, *Spring 2026*
+- **Teaching Assistant**, Purdue CS 53600: Data Communication and Computer Networks, *Fall 2025*
+- **Teaching Assistant**, Purdue CS 37300: Data Mining and Machine Learning, *Fall 2024*
 
