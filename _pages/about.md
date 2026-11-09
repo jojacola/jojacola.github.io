@@ -28,6 +28,7 @@ My research focuses on **efficient AI systems**, especially the training and ser
 </p>
 
 # 🔥 News
+- *2026.10*: 🎉 Our work on efficient LLM reranking, [DecisionRank: On-Policy Distillation for Decision-Model Rerankers](https://arxiv.org/abs/2610.42128), is now available online.
 - *2026.09*: 🎉 Our work on online synthetic-data filtering, [FROST: Let Training Guide Selection](https://arxiv.org/abs/2609.29988), is now available online.
 - *2026.08*: 🎉 I completed my summer internship at Meta. Many thanks to my mentor and teammates for their guidance, support, and collaboration!
 - *2025.10*: 🎉 Our work on carbon-efficient disaggregated speculative decoding was accepted to [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca). Thanks to my collaborators for a great collaboration!
@@ -37,6 +38,10 @@ My research focuses on **efficient AI systems**, especially the training and ser
 
 # 📝 Publications 
 \* denotes equal contribution
+- <span class="badge">arXiv 2026</span>
+  DecisionRank: On-Policy Distillation for Decision-Model Rerankers<br>
+  **Yanran Wu**, Dian Yu, Chongyang Bai, Jieyi Zhang, Rui Liu, Tianyi Chen, Shike Mei, Hang Cui, Frank Shyu, Sandeep Pandey, Luke Simon, Chunwei Liu, Xi Liu [📄 Paper](https://arxiv.org/abs/2610.42128)
+
 - <span class="badge">arXiv 2026</span>
   Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility<br>
   **Yanran Wu**, Sana Lakdawala, Renzo Tassara Miller, Chongyang Bai, Sharath Ciddu, Shivendra Pratap Singh, Kungang Li, Sandeep Pandey, Chunwei Liu [📄 Paper](https://arxiv.org/abs/2609.29988)
@@ -82,11 +87,11 @@ My research focuses on **efficient AI systems**, especially the training and ser
 # 💻 Experience
 - **Part-time Student Researcher, Ads Ranking**, Meta  
 *Aug. 2026 – Present*  
-Research on LLM-based reranking and efficient on-policy distillation.
+Developed [DecisionRank](https://arxiv.org/abs/2610.42128) for efficient LLM reranking through on-policy distillation.
 
 - **Research Scientist Intern, Ads Ranking**, Meta  
 *May 2026 – Aug. 2026* &nbsp;&nbsp;📍 Sunnyvale, CA  
-Developed FROST for online synthetic-data filtering, evaluated across ads ranking, text-to-SQL fine-tuning, and image classification.
+Developed [FROST](https://arxiv.org/abs/2609.29988) for online synthetic-data filtering, evaluated across ads ranking, text-to-SQL fine-tuning, and image classification.
 
 - **Software Engineer**, Alibaba Cloud  
 *Jun. 2022 – Jul. 2023* &nbsp;&nbsp;📍 Shanghai, China  
